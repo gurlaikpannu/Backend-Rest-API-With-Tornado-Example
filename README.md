@@ -6,3 +6,4 @@
 
 ## How To Run The APP
 - run `pip install -r requirements.txt`
+- the run `python app.py`
